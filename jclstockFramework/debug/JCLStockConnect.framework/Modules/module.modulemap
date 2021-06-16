@@ -1,6 +1,0 @@
-framework module JCLStockConnect {
-  umbrella header "JCLStockConnect.h"
-
-  export *
-  module * { export * }
-}
